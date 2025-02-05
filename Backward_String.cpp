@@ -3,6 +3,7 @@ Write a function that accepts a pointer to a C-string as an argument and display
 in a program that asks the user to input a string then passes it into a function.
 
 Code:
+    
 //importing function 
 #include <iostream>
 #include <string.h>
