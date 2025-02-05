@@ -1,8 +1,8 @@
-Chapter 10 Problem # 2 Pg 607 Backward String: 
-Write a function that accepts a pointer to a C-string as an argument and displays itscontents backward. For Instance, if the string argument is "Gracity" the function should display "ytivarG". Demonstrate the function
-in a program that asks the user to input a string then passes it into a function.
+//Chapter 10 Problem # 2 Pg 607 "Backward String": 
+//Write a function that accepts a pointer to a C-string as an argument and displays itscontents backward. For Instance, if the string argument is "Gracity" the function should display "ytivarG". Demonstrate the function
+//in a program that asks the user to input a string then passes it into a function.
 
-Code:
+//Code:
     
 //importing function 
 #include <iostream>
