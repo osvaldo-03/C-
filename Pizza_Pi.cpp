@@ -1,10 +1,10 @@
-Chapter 3 Pg 148 Question 20 (Pizza PI) 
-Joe's Pizza Palace needs a program to calculate the numberof slices a pizza of any size can be divided into. The program should perform the following steps: 
-A.) Ask the user for the diameter of the pizza in inches 
-B.) Calculate the number of slices that may be taken from a pizza of that size . 
-A.) Display a message telling the number of slices. 
+//Chapter 3 Pg 148 Question 20 "Pizza PI" 
+//Joe's Pizza Palace needs a program to calculate the numberof slices a pizza of any size can be divided into. The program should perform the following steps: 
+//A.) Ask the user for the diameter of the pizza in inches 
+//B.) Calculate the number of slices that may be taken from a pizza of that size . 
+//A.) Display a message telling the number of slices. 
 
-Code: 
+//Code: 
     
 #include<iostream>
 #include<cmath> 
