@@ -4,6 +4,8 @@ A.) Ask the user for the diameter of the pizza in inches
 B.) Calculate the number of slices that may be taken from a pizza of that size . 
 A.) Display a message telling the number of slices. 
 
+Code: 
+    
 #include<iostream>
 #include<cmath> 
 using namespace std;
